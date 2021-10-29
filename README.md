@@ -1,4 +1,4 @@
-# youarchive
+# you archive
 archive of sounds found on the page titled "you"
 - [original sound (lasted for ~5 minutes)](https://cdn.discordapp.com/attachments/874303640469393479/901578349804130344/1-Hml2sag22ioDIcbmcWN.wav)
 - [first sound](https://cdn.discordapp.com/attachments/874303640469393479/901128464529227836/sniper_laughevil01.mp3)
